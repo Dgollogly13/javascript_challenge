@@ -41,7 +41,7 @@ Now in addition to the table being presented on the webpage, users may also filt
 
 ### Challenges or Additional Opportunities
 
-
+An additional opportunity would have been to add more elements to the filter on the page, so that users may filter the dataset in more ways than just datetime. 
 
 ### Built With
 
